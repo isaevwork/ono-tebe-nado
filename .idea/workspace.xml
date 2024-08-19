@@ -59,7 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1723445750549</updated>
       <workItem from="1723445751582" duration="30494000" />
-      <workItem from="1723566162760" duration="28297000" />
+      <workItem from="1723566162760" duration="54064000" />
     </task>
     <task id="LOCAL-00001" summary="[wip] - add header">
       <option name="closed" value="true" />
@@ -69,7 +69,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723488942246</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="[wip] - add cover section">
+      <option name="closed" value="true" />
+      <created>1723672333175</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1723672333175</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
