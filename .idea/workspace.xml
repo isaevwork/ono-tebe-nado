@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78fed326-be44-4adf-9d88-94de28a969c4" name="Changes" comment="[wip] - removed comments">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="78fed326-be44-4adf-9d88-94de28a969c4" name="Changes" comment="[wip] - added readme">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +57,7 @@
       <option name="presentableId" value="Default" />
       <updated>1723445750549</updated>
       <workItem from="1723445751582" duration="30494000" />
-      <workItem from="1723566162760" duration="69612000" />
+      <workItem from="1723566162760" duration="69858000" />
     </task>
     <task id="LOCAL-00001" summary="[wip] - add header">
       <option name="closed" value="true" />
@@ -107,7 +107,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724276384998</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="[wip] - added readme">
+      <option name="closed" value="true" />
+      <created>1724276724963</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1724276724963</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,6 +128,7 @@
     <MESSAGE value="[wip] - add about section and footer" />
     <MESSAGE value="[wip] - fix tests" />
     <MESSAGE value="[wip] - removed comments" />
-    <option name="LAST_COMMIT_MESSAGE" value="[wip] - removed comments" />
+    <MESSAGE value="[wip] - added readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="[wip] - added readme" />
   </component>
 </project>
