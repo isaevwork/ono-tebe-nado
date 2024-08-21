@@ -92,8 +92,6 @@
     background-color: #000;
 }
 
-/*--------------------------------------------------*/
-
 .cover {
     display: flex;
     position: relative;
@@ -193,8 +191,6 @@
     color: #FFF;
 }
 
-/*--------------------------------------------------*/
-
 .lots {
     padding: 180px 24px 146px 24px;
 }
@@ -288,8 +284,6 @@
     text-transform: lowercase;
 }
 
-/*--------------------------------------------------*/
-
 .about {
     display: grid;
     grid-template-columns: 359px 1fr;
@@ -339,8 +333,6 @@
     letter-spacing: 0.2px;
     }
 }
-
-/*--------------------------------------------------*/
 
 .footer {
     display: flex;
