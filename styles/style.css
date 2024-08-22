@@ -1,7 +1,7 @@
 .header {
     margin: 0 auto;
     display: flex;
-    padding: 94px 24px 90px 24px;
+    padding: 92px 24px 90px 24px;
 }
 
 .header__menu {
@@ -72,7 +72,6 @@
 }
 
 .cover {
-    width: 100%;
     display: inline-block;
     position: relative;
     z-index: 0;
@@ -99,7 +98,7 @@
     z-index: 2;
     justify-content: space-between;
     flex-direction: column;
-    padding: 165px 48px 115px 53px;
+    padding: 170px 50px 110px 50px;
     font-size: 100px;
     line-height: 115px;
     letter-spacing: 30px;
@@ -114,7 +113,7 @@
     font-size: 100px;
     font-style: normal;
     font-weight: 700;
-    line-height: 115px;
+    line-height: 115%; /* 115px */
     letter-spacing: 30px;
     text-transform: uppercase;
     span:nth-child(2) {
@@ -149,7 +148,6 @@
 
 .cover__description {
     display: flex;
-    justify-content: center;
     position: relative;
     z-index: 2;
     align-items: center;
@@ -164,13 +162,13 @@
     line-height: 28px;
     text-transform: uppercase;
     word-spacing: 18px;
-    margin-right: 82px;
 }
 
 .bet-button {
     font-family: inherit;
     color: #FFF;
     background: transparent;
+    margin-left: 80px;
     font-size: 22px;
     text-transform: uppercase;
     text-decoration: none;
