@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78fed326-be44-4adf-9d88-94de28a969c4" name="Changes" comment="[wip] - fix readme">
+    <list default="true" id="78fed326-be44-4adf-9d88-94de28a969c4" name="Changes" comment="[wip] - made edits according review">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/style.css" afterDir="false" />
@@ -59,7 +59,7 @@
       <updated>1723445750549</updated>
       <workItem from="1723445751582" duration="30494000" />
       <workItem from="1723566162760" duration="71110000" />
-      <workItem from="1724308868836" duration="10310000" />
+      <workItem from="1724308868836" duration="11953000" />
     </task>
     <task id="LOCAL-00001" summary="[wip] - add header">
       <option name="closed" value="true" />
@@ -125,7 +125,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724276968592</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="[wip] - made edits according review">
+      <option name="closed" value="true" />
+      <created>1724320856331</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1724320856331</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,6 +148,7 @@
     <MESSAGE value="[wip] - removed comments" />
     <MESSAGE value="[wip] - added readme" />
     <MESSAGE value="[wip] - fix readme" />
-    <option name="LAST_COMMIT_MESSAGE" value="[wip] - fix readme" />
+    <MESSAGE value="[wip] - made edits according review" />
+    <option name="LAST_COMMIT_MESSAGE" value="[wip] - made edits according review" />
   </component>
 </project>
