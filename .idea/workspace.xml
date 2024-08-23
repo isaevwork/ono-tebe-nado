@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78fed326-be44-4adf-9d88-94de28a969c4" name="Changes" comment="[wip] - made edits according review">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="78fed326-be44-4adf-9d88-94de28a969c4" name="Changes" comment="[wip] - changed line-height for title">
       <change beforePath="$PROJECT_DIR$/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -132,7 +131,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724320856331</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="[wip] - changed line-height for title">
+      <option name="closed" value="true" />
+      <created>1724403367296</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1724403367296</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -159,6 +166,7 @@
     <MESSAGE value="[wip] - added readme" />
     <MESSAGE value="[wip] - fix readme" />
     <MESSAGE value="[wip] - made edits according review" />
-    <option name="LAST_COMMIT_MESSAGE" value="[wip] - made edits according review" />
+    <MESSAGE value="[wip] - changed line-height for title" />
+    <option name="LAST_COMMIT_MESSAGE" value="[wip] - changed line-height for title" />
   </component>
 </project>
