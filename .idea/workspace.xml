@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78fed326-be44-4adf-9d88-94de28a969c4" name="Changes" comment="[wip] - fix styles">
+    <list default="true" id="78fed326-be44-4adf-9d88-94de28a969c4" name="Changes" comment="[wip] - fix style">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/style.css" afterDir="false" />
     </list>
@@ -148,7 +148,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724403492038</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="[wip] - fix style">
+      <option name="closed" value="true" />
+      <created>1724403669669</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1724403669669</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -177,6 +185,7 @@
     <MESSAGE value="[wip] - made edits according review" />
     <MESSAGE value="[wip] - changed line-height for title" />
     <MESSAGE value="[wip] - fix styles" />
-    <option name="LAST_COMMIT_MESSAGE" value="[wip] - fix styles" />
+    <MESSAGE value="[wip] - fix style" />
+    <option name="LAST_COMMIT_MESSAGE" value="[wip] - fix style" />
   </component>
 </project>
